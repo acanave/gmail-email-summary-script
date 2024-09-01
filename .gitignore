@@ -1,0 +1,6 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore clasp-related files if using clasp
+.clasp.json
+node_modules/
